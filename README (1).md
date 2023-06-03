@@ -16,7 +16,7 @@ description: Introduction to Amazon Web Services
 * Cloud
 * Hybrid
 
-<figure><img src="../.gitbook/assets/introduction_on_premises (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/introduction_on_premises (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 6 Advantages of cloud computing
 
